@@ -1,6 +1,6 @@
 # Threat\_Sentinel
 
-Welcome to **Threat\_Sentinel**, a Python-based cybersecurity project for detecting malicious URLs.
+Welcome to **Threat\_Sentinel**, a Python-based project for detecting malicious URLs.
 
 ## Table of Contents
 
