@@ -140,8 +140,6 @@ scikit-learn
 
 All code is compatible with these versions and has been verified end-to-end.
 
-```
-```
 
 ## Usage
 
