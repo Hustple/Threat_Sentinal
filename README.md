@@ -12,14 +12,11 @@ Welcome to **Threat\_Sentinel**, a Python-based cybersecurity project for detect
 6. [Installation & Requirements](#installation--requirements)
 7. [Usage](#usage)
 
-   * [Data Preprocessing](#data-preprocessing)
-   * [Training the Model](#training-the-model)
+   * [Data Preprocessing & Training](#data-preprocessing--training)
    * [Inference & Streamlit Deployment](#inference--streamlit-deployment)
 8. [Model Comparison](#model-comparison)
 9. [Results](#results)
 10. [Contributing](#contributing)
-11. [License](#license)
-
 ---
 
 ## Project Overview
@@ -33,7 +30,6 @@ Welcome to **Threat\_Sentinel**, a Python-based cybersecurity project for detect
 * Support for CSIC 2010 dataset
 * Comparison of multiple sequence models (see `architecture_comparison.ipynb`)
 * Streamlit app for real‑time URL classification
-*
 
 ## Architecture
 
@@ -215,7 +211,3 @@ These figures match the outputs in the notebook cell outputs.
 ## Contributing
 
 Contributions are welcome. Please fork, create a feature branch, commit with clear messages, and submit a pull request. Ensure new code is accompanied by notebook or script tests.
-
-## License
-
-This project is distributed under the MIT License. See [LICENSE](LICENSE) for details.
